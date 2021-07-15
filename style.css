@@ -1,0 +1,29 @@
+.first{
+    display: flex;
+    text-align: center;
+    background: silver;
+}
+.too1{
+  text-align: center;
+  background: greenyellow;
+}
+.too1>h2{
+    color:  red;
+}
+.too1>p{
+    color: cornflowerblue;
+}
+.product-image{
+    width: 200px;
+}
+.product-car{
+    margin-top: 100px;
+}
+.tree{
+    display: flex;
+    column-gap: 100px;
+    justify-content: center;
+}
+.product-title {
+    text-align: center;
+}
